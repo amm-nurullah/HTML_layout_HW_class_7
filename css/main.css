@@ -1,0 +1,190 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #441E13;
+}
+.main_container{
+	width: 800px;
+	height: auto;
+	background: #ACBOAD;
+	margin: 0 auto;	
+	border:6px solid white;
+}
+.header{
+	background: #461001;
+	min-height: 70px;
+}
+.header p{
+	font-family: roboto;
+	color:white;
+	font-size: 50px;
+	text-align: center;
+}
+.menue{
+	background: #6f1f09;
+	min-height: 65px;
+	width: 100%;
+  
+}
+
+
+.menue ul {
+
+}
+.menue ul li{
+	list-style: none;
+    float: left;
+    padding: 12px 37px 12px 37px;
+    
+    margin-left: 1px;
+}
+.menue ul li a{
+	text-decoration: none;
+    color: #fff;
+	font-size: 20px;
+}
+
+
+
+.banner{
+	background: #87A984;
+	min-height: 200px;
+
+}
+.banner p{
+	font-size: 70px;
+    font-family: roboto;
+    color: #5f5c5c;
+	text-align: center;
+	padding: 60px;
+}
+.wrapper{
+	overflow: hidden;
+
+}
+
+.left_aside{
+	background: #96AFAC;
+	width: 34%;
+	min-height: 200px;
+	float: left;
+
+}
+
+.left_aside p{
+		font-size: 30px;
+    font-family: roboto;
+    color: #5f5c5c;
+	text-align: center;
+	padding: 73px;
+
+}
+
+.content{
+	background: #96AFAC;
+	width: 70%;
+	min-height: 200px;
+	float: left;
+
+
+}
+
+.content p{
+	font-size: 30px;
+    font-family: roboto;
+    color: #5f5c5c;
+	text-align: center;
+	padding: 73px;
+
+}
+.contact{
+	background: #DBD8C5;
+	width: 30%;
+	min-height: 200px;
+	float: right;
+}
+
+.contact p{
+	font-size: 30px;
+    font-family: roboto;
+    color: #5f5c5c;
+	text-align: center;
+	padding: 73px;
+}
+.mid{
+	background: #DBD8C5;
+	width: 32%;
+	min-height: 200px;
+	float: left;
+
+}
+.mid p{
+		font-size: 30px;
+    font-family: roboto;
+    color: #5f5c5c;
+	text-align: center;
+	padding: 73px;
+}
+
+.right_aside{
+	background: #96AFAC;
+	width: 34%;
+	min-height: 200px;
+	float: left;
+
+
+}
+
+.right_aside p{
+	font-size: 29px;
+    font-family: roboto;
+    color: #5f5c5c;
+	text-align: center;
+	padding: 66px;
+	
+}
+
+.footer{
+	background: #822e16;
+	min-height: 100px;
+
+}
+.footer p{
+		font-size: 60px;
+    font-family: roboto;
+    color: #5f5c5c;
+	text-align: center;
+	padding: 16px;
+}
+.wrapper_tabel_1{
+	background-color: #987171;
+}
+.wrapper_tabel_1, h2{
+	font-size: 26px;
+	text-align: center;
+	color: black;
+}
+
+.caption_1, h3{
+	font-size: 26px;
+	text-align: center;
+	color: white;
+}
+
+.table_1{
+	font-family: arial, sans-serif;
+  	border-collapse: collapse;
+  	width: 100%;
+}
+.table_1 td, th {
+  border: 3px solid white;
+  text-align: left;
+  padding: 8px;
+  color: black;
+}
+
+.table_1 tr:nth-child(odd) {
+  background-color: #822e16;
+}
